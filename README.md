@@ -81,7 +81,7 @@
          <p> 
             <b> UNICEF Girls Be Ambitious: </b> 
              Girls Be Ambitious prevents the human trafficking of Cambodian girls through their incentive program that enables families to send their girls to school
-             <a href="http://www.cambodiaschools.com/our-programs/girls-be-ambitious/"target="_blank">More Information Here</a>
+             <a href="http://www.cambodiaschools.com/our-programs/girls-be-ambitious/">Girls Be Ambitious</a>
         </p>
              <p>--------------
                 </p>
