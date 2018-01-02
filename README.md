@@ -29,7 +29,7 @@
             <b> Business Model: </b> 
         </p>
             <ol>
-                <li>Source coffee from K and F Coffee Roasters</li> 
+                <li>Source coffee from K&F Coffee Roasters</li> 
                 <li>Sell coffee with PRJ GRL branding</li>
                 <li>Donate 50% of revenue to Girls Be Ambitious</li>
                 <li>Invest the other 50% into the venture</li>
@@ -59,8 +59,8 @@
         </p>      
                    
            <p> 
-            <b> K and F Coffee Roasters: </b> 
-              Located in Portland, K and F values community involvment and is known for supporting, engaging, and giving back to organizations across the U.S.
+            <b> K&F Coffee Roasters: </b> 
+              Located in Portland, K&F values community involvment and is known for supporting, engaging, and giving back to organizations across the U.S.
                 <a href="http://kfcoffee.com/about-privatelabel/">K&F Coffee Roasters</a>
         </p>
            
