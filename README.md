@@ -24,7 +24,7 @@
         
         <p> 
             <b> Problem: </b>
-         Cambodia is a low income country and close to 80% of the population suffers from poverty.  The combination of the country's poverty and increased tourism have unfortunately resulted in high amounts of sexual exploitation.    
+         Cambodia is a low income country and close to 80% of the population suffers from poverty. The combination of the country's poverty and increased tourism have unfortunately resulted in high amounts of sexual exploitation.    
       </p>
         
         <p> 
