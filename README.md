@@ -1,7 +1,5 @@
 
 <html>
-    
-    
 	<head>
         <link rel="icon" 
       type="image/png" 
@@ -88,7 +86,7 @@
            
             <p>
                 <b> Donate </b>
-                Donate to our <a href="https://www.gofundme.com/yk2af-sponsor-cambodian-girls-education"target="_blank">GoFundMe page</a>! Help us raise $500 so that we can order our first bulk order of coffee and begin selling. Thank you!
+                Donate to our <a href="https://www.gofundme.com/yk2af-sponsor-cambodian-girls-education">GoFundMe page</a>! Help us raise $500 so that we can order our first bulk order of coffee and begin selling. Thank you!
                
          
                 </p>
