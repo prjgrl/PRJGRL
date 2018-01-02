@@ -5,15 +5,7 @@
       type="image/png" 
       href="prjgrllogo.png">
 	
-        <style>
-            .content {
-                max-width: 650px;
-                margin: auto;
-            }
-            </style>
-        
-        <body>
-            <div class = "content">
+      
         <p> 
          Project Girl is a venture that will sponsor Cambodian girls' education by selling coffee.   
          </p>
@@ -89,8 +81,7 @@
                 
              
                 
-            </div>
-        </body>
+         
    
     </head>  
 </html>
