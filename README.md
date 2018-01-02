@@ -61,7 +61,7 @@
            <p> 
             <b> K&F Coffee Roasters: </b> 
               Located in Portland, K&F values community involvment and is known for supporting, engaging, and giving back to organizations across the U.S.
-                <a href="http://kfcoffee.com/about-privatelabel/">K&F Coffee Roasters</a>
+                <a href="http://kfcoffee.com/">K&F Coffee Roasters</a>
         </p>
            
          <p> 
