@@ -11,11 +11,7 @@
                 margin: auto;
             }
             </style>
-        <h1> 
-          <center>
-          <img src="prjgrllogo.png" alt="Flowers in Chania"> 
-            </center> 
-        </h1> 
+        
         <body>
             <div class = "content">
         <p> 
